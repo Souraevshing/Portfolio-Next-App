@@ -163,16 +163,6 @@ export const projects = [
   },
   {
     id: 16,
-    title: 'Disney Clone App',
-    description:
-      'Fully responsive disney clone app with login functionality using OAuth library',
-    image: '/images/13.png',
-    tags: ['React', 'Firebase', 'OAuth', 'Tailwind'],
-    source: 'https://github.com/Souraevshing/React-Projectsx/tree/Disney-clone',
-    visit: 'https://disney-app.netlify.app/',
-  },
-  {
-    id: 17,
     title: 'Menubar App',
     description:
       'Menubar app to showcase working of react-hooks i.e. useState & useEffect.',
@@ -182,7 +172,7 @@ export const projects = [
     visit: 'https://react-menubar-app.netlify.app/',
   },
   {
-    id: 18,
+    id: 17,
     title: 'Accordion App',
     description:
       'Accordion app to showcase working of react-hooks i.e. useState & useEffect.',
@@ -193,7 +183,7 @@ export const projects = [
     visit: 'https://accordion-app-react.netlify.app/',
   },
   {
-    id: 19,
+    id: 18,
     title: 'TicTacToe App',
     description:
       'TicTacToe app developed using advanced javascript, es6 module and Css.',
@@ -204,7 +194,7 @@ export const projects = [
     visit: 'https://my-tictactoe-01-game.netlify.app/',
   },
   {
-    id: 20,
+    id: 19,
     title: 'Pokemon App',
     description:
       'Pokemon app developed to showcase difference between class-based and functional-based component. ',
@@ -217,9 +207,8 @@ export const projects = [
 ]
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey' },
-  { year: 2018, text: 'Worked as a freelance developer' },
-  { year: 2019, text: 'Founded JavaScript Mastery' },
-  { year: 2020, text: 'Shared my projects with the world' },
-  { year: 2021, text: 'Started my own platform' },
+  { year: 2019, text: 'Started my journey' },
+  { year: 2020, text: 'Learned about Development' },
+  { year: 2021, text: 'Started Web Development using MERN STACK' },
+  { year: 2022, text: 'Open-sourced all my projects upon Github' },
 ]
